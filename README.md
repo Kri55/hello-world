@@ -1,2 +1,3 @@
 # hello-world
 try repository
+I am a Dynamics NAV developer...
